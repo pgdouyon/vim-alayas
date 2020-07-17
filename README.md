@@ -8,6 +8,12 @@ scheme and I highly recommend trying it out.
 I created Vimalayas because Nord was a bit too colorful for my taste and I
 wanted a more toned down color scheme that emphasized the calming blue tones.
 
+Related Work
+------------
+
+* [Yin-Yang](https://github.com/pgdouyon/vim-yin-yang) - Minimalist black and
+  white color scheme with a style similar to Vimalayas
+
 License
 -------
 
